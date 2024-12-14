@@ -9,3 +9,4 @@
 •        Implement sorting by price or category.
 •        Add a wishlist feature.
 
+app deploye link : https://genuine-sable-97713f.netlify.app/
